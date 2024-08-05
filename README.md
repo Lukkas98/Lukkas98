@@ -1,6 +1,6 @@
 # 💫 Sobre Mí:
-*Hola! Me llamo Lucas Palma.*
-<br><br>Soy desarrollador web full stack orientado al front-end, desde chico siempre me intereso la tecnología, estoy en búsqueda de mi primer empleo en la industria Tech,<br>me gusta trabajar en equipo y poder resolver problemas con código.<br>Tengo en mente para mi futuro profesional aprender sobre desarrollo de videojuegos y también consolidar mis habilidades actuales
+*Hola! Me llamo Lucas.*
+<br><br>Tengo 26 años y soy desarrollador web full stack, desde chico siempre me intereso la tecnología, estoy en búsqueda de mi primer empleo en la industria Tech,<br>me gusta trabajar en equipo y poder resolver problemas con código.<br>Tengo en mente para mi futuro profesional aprender sobre desarrollo de videojuegos y también consolidar mis habilidades actuales
 
 
 ## 🌐 Redes:
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Lukkas98&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lukkas98&theme=slateorange&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkas98&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 Trofeos GitHub
-![](https://github-profile-trophy.vercel.app/?username=Lukkas98&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lukkas98&icon=2&color=8)](https://visitcount.itsvg.in)
