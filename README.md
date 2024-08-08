@@ -9,7 +9,7 @@ Tengo en mente para mi futuro profesional aprender sobre desarrollo de videojueg
 ## 🌐 Redes
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/lucaspalma98)
-[![Portafolio](https://img.shields.io/badge/Portafolio-333.svg?style=for-the-badge&logo=vercel)](https://portafolio-lukkas98.vercel.app)
+[![Portafolio](https://img.shields.io/badge/Portafolio-333.svg?style=for-the-badge&logo=next.js)](https://lucas-palma.vercel.app/)
 
 ## 💻 Stack
 
